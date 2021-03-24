@@ -3,7 +3,7 @@
 Make a simple CRUD app that can add, update, or delete users.
 Running on ReactJS with Hooks
 
-### [View the demo](https://tphilippini.github.io/crud/)
+### [Demo](https://tphilippini.github.io/crud/)
 
 ## Author
 
